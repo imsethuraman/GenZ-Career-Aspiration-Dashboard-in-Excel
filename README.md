@@ -1,6 +1,8 @@
 # GenZ-Career-Aspiration-Dashboard-in-Excel
 This repository provides an Excel dashboard for analyzing GenZ career aspirations. It offers a comprehensive set of worksheets, charts, and interactive features to explore and understand the career preferences and goals of Generation Z individuals.
 
+Project Link:https://onedrive.live.com/edit.aspx?resid=546180F3A33A7F6!2613&ithint=file%2cxlsx&wdo=2&authkey=!AGcN-3AFA10UqTM
+
 Key Features:
 
 Interactive Excel dashboard for GenZ career aspiration analysis.
